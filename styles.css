@@ -81,8 +81,24 @@ ul {
 
 .image-section {
     background-color: white;
+    padding: 50px;
 }
-
+.image-title {
+    text-align: center;
+    margin-top: -15px;
+    color: #1F2937;
+    font-weight: 800;
+}
+.image-flex-container {
+    display: flex;
+    text-align: center;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.image-caption {
+    font-size: 12px;
+    width: 120px;
+}
 .section-pic {
     width: 100px;
     height: 100px;
