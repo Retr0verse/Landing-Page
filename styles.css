@@ -198,3 +198,7 @@ h4 {
     position: static;
     margin-top: 10px;
 }
+a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
