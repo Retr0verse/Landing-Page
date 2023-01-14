@@ -93,7 +93,8 @@ ul {
     display: flex;
     text-align: center;
     padding-top: 20px;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 15px;
 }
 .image-caption {
     font-size: 12px;
