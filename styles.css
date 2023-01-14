@@ -108,7 +108,7 @@ ul {
     width: 100px;
     height: 100px;
     border-radius: 10%;
-    border: 3px rgba(50, 50, 235, 0.901) solid;
+    border: 3px #3882F6 solid;
 }
 
 .quote-section {
@@ -130,6 +130,35 @@ ul {
  font-weight: bold;
  padding-top: 10px;
 }
+.sign-up {
+    background-color: #3882F6;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    display: fle;
+
+}
+h4 {
+    color: #F9FAF8;
+    font-weight: 600;
+}
+.sign-up-info {
+    color: #E5E7EB;
+    font-size: 12px;
+}
+.outro-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    font-weight: bold;
+    border: solid 2px;
+    border-radius: 5px;
+    font-size: 13px;
+}
 .Copyright {
     text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 12px;
 }
