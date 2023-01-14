@@ -9,13 +9,14 @@ main {
     background-color: #1F2937;
     display: flex;
     align-items: center;
+    padding-left: 50px;
     gap: 15px;
     justify-content: space-between;
 }
 ul {
     list-style-type:none;
     display: flex;
-    padding: 10px;
+    padding-right: 100px;
     gap: 15px
 }
 
@@ -32,8 +33,22 @@ ul {
     color: #E5E7EB;
     flex:  none;
 }
-
+.title-heading {
+    color: #F9FAF8;
+    font-weight: 700;
+}
 
 .main-title {
     background-color: #1F2937;
+}
+.title-pic {
+    width: 370px;
+    height: 150px;
+    background-color: gray;
+}
+.image-section {
+    background-color: white;
+}
+.quote-section {
+    background-color: #E5E7EB;
 }
